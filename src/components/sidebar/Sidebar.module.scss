@@ -1,0 +1,22 @@
+.sidebar{
+    width: 22vw;
+    padding: 20px;
+
+
+    .categories{
+        padding-left: 15px;
+
+        .category{
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+
+
+            label{
+                margin-bottom: 5px;
+            }
+        }
+    }
+
+}
